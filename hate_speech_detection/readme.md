@@ -1,4 +1,4 @@
-```
+
 # Hate Speech Detection System
 
 ## 📌 Project Overview
@@ -233,6 +233,6 @@ Possible improvements include:
 * Improving the detection of hate speech class
 * Increasing dataset size
 
----
+
 
 
